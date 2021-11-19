@@ -2,13 +2,13 @@
   "name": "@venomswap/sdk",
   "license": "MIT",
   "version": "1.0.5",
-  "description": "🛠 An SDK for building applications on top of VenomSwap.",
+  "description": "🛠 An SDK for building applications on top of OmniTrade.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/VenomProtocol/venomswap-sdk.git",
+  "repository": "https://github.com/omni-corp-protocols/venomswap-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
